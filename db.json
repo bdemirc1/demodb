@@ -1,14 +1,14 @@
 [
   {
-  "id": 1,
+  "done": false,
   "todo": "Finish project"
   },
   {
-  "id": 2,
+  "done": false,
   "todo": "Buy groceries"
   },
   {
-  "id": 3,
+  "done": false,
   "todo": "Pay the bill"
   }
 ]
