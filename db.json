@@ -1,14 +1,14 @@
 [
   {
   "id": 1,
-  "todo": "Todo 1"
+  "todo": "Finish project"
   },
   {
   "id": 2,
-  "todo": "Todo 2"
+  "todo": "Buy groceries"
   },
   {
   "id": 3,
-  "todo": "Todo 3"
+  "todo": "Pay the bill"
   }
 ]
